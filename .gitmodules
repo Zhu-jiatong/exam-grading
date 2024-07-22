@@ -3,4 +3,4 @@
 	url = https://github.com/Zhu-jiatong/exams.git
 [submodule "learning-cxx"]
 	path = learning-cxx
-	url = https://github.com/LearningInfiniTensor/learning-cxx.git
+	url = https://github.com/Zhu-jiatong/learning-cxx.git
