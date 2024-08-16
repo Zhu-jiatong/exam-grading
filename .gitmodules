@@ -7,3 +7,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/Zhu-jiatong/rustlings.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/LearningInfiniTensor/learning-lm-rs.git
